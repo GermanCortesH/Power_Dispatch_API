@@ -1,0 +1,11 @@
+.venv/
+.restapi_basic/
+venv/
+__pycache__/
+*.pyc
+*.pyd
+
+.pip-modules
+*.log
+*.dump
+*.swp

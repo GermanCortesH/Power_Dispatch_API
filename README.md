@@ -32,5 +32,5 @@ El servicio se despliega usando Docker Compose, que se encarga de crear el ambie
 
 Ejecuta el siguiente comando desde la carpeta raíz:
 * `docker compose up --build -d`
-* Abre el siguiente link en algún buscador `http://localhost:8000/docs`
+* Abre el siguiente link en algún buscador `http://localhost:8888/docs`
 * agrega cambios en los datos de entrada y ejecuta la consulta de la api para ver la salida
